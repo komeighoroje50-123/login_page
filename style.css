@@ -92,7 +92,9 @@ button {
         height: 30vh;
     }
 
-  /* .right */
+  .right {
+    margin-top: 30vh;
+  }
 }
 
 @media (max-width: 500px) {
