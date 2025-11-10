@@ -90,7 +90,8 @@ button {
     }
 }
 @media (max-width: 500px) {
-    right {
-        margin-top: 10%;
+    #email_id {
+        position: relative;
+        left: 20px;
     }
 }
