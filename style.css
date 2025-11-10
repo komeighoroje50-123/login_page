@@ -63,7 +63,8 @@ body {
 button {
     width: 20%;
     padding: 10px;
-    background: blue;
+    border-radius: 10px;
+    background: lightblue;
     color: white;
     border: none;
     position: relative;
