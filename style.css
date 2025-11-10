@@ -93,5 +93,6 @@ button {
 @media (max-width: 500px) {
     .left {
         width: 375px;
+        align-items: center;
     }
 }
