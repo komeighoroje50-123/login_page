@@ -88,16 +88,15 @@ button {
         flex-direction: column;
         align-items: center;
     }
-  .left {
+    .left {
         height: 30vh;
     }
 
-  .right {
-    margin-top: 50vh;
-    margin-left: 50%;
-  }
+    .right {
+        margin-top: 50vh;
+        margin-left: 50%;
+    }
 }
 
 @media (max-width: 500px) {
-    
 }
