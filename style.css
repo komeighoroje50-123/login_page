@@ -89,3 +89,8 @@ button {
         align-items: center;
     }
 }
+@media (max-width: 500px) {
+    right {
+        margin-top: 5%;
+    }
+}
