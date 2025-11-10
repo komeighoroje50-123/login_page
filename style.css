@@ -92,6 +92,6 @@ button {
 @media (max-width: 500px) {
     #email_id {
         position: relative;
-        left: 20px;
+        left: 4px;
     }
 }
