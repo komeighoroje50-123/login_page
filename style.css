@@ -89,3 +89,9 @@ button {
         align-items: center;
     }
 }
+
+@media (max-width: 500px) {
+  left {
+    height: 70vh;
+  }
+}
