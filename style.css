@@ -91,6 +91,6 @@ button {
 }
 @media (max-width: 500px) {
     right {
-        margin-top: 5%;
+        margin-top: 10%;
     }
 }
