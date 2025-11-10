@@ -91,7 +91,7 @@ button {
 }
 
 @media (max-width: 500px) {
-  left {
-    height: 70vh;
-  }
+    left {
+        height: 70vh;
+    }
 }
